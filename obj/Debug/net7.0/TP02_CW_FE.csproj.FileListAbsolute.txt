@@ -1,0 +1,15 @@
+Z:\Prog\TP02_CW_FE\bin\Debug\net7.0\TP02_CW_FE.exe
+Z:\Prog\TP02_CW_FE\bin\Debug\net7.0\TP02_CW_FE.deps.json
+Z:\Prog\TP02_CW_FE\bin\Debug\net7.0\TP02_CW_FE.runtimeconfig.json
+Z:\Prog\TP02_CW_FE\bin\Debug\net7.0\TP02_CW_FE.dll
+Z:\Prog\TP02_CW_FE\bin\Debug\net7.0\TP02_CW_FE.pdb
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\TP02_CW_FE.csproj.AssemblyReference.cache
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\TP02_CW_FE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\TP02_CW_FE.AssemblyInfoInputs.cache
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\TP02_CW_FE.AssemblyInfo.cs
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\TP02_CW_FE.csproj.CoreCompileInputs.cache
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\TP02_CW_FE.dll
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\refint\TP02_CW_FE.dll
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\TP02_CW_FE.pdb
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\TP02_CW_FE.genruntimeconfig.cache
+Z:\Prog\TP02_CW_FE\obj\Debug\net7.0\ref\TP02_CW_FE.dll
